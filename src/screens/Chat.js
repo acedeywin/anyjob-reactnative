@@ -100,8 +100,6 @@ const Chat = props => {
   )
 }
 
-//6f25701311bd40ce8e71e0e3c4c9c994
-
 export default Chat
 
 const styles = StyleSheet.create({
@@ -116,7 +114,7 @@ const styles = StyleSheet.create({
     borderBottomWidth: 0,
     borderWidth: 1,
     borderRadius: 5,
-    borderColor: "#9F9F9F",
+    borderColor: "#fff",
     borderBottomWidth: 0,
     shadowColor: "#9F9F9F",
     shadowOffset: { width: 0, height: 2 },
